@@ -1,1 +1,159 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T18:42:03.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="-XcUBQztqUf6vp5Zo9sU" version="17.4.6" type="github"><diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">7VvLcqM4FP0aLyeFeBmWHbe7Z5Gu6pp0VS9TMiigCSBGyIk9Xz8CJPMQdkgax5o23gQuQo97dM69ksjCWqW7rxTm8TcSomRhGuFuYX1emKZpAMD/lJZ9bfF9vzZEFIe1CTSGe/wvEkZDWLc4REWnICMkYTjvGgOSZShgHRuklLx0iz2SpNtqDiOkGO4DmEjrjdPYf+KQxcIOXL958CfCUSwa90y3frCBwVNEyTYTLWYkQ/WTFMpqxCiLGIbkpWWy1gtrRQlh9VW6W6GkdKz0mXyP7WVHF9ZtzNKE3wB+WT3+cuRlMOZlPi6KMtZu7mh9xsZwXOgHrmUhFwR/AE9pAYXcreKWUBaTiGQwWTfW28pTqKzS6HYHZeGnEkl+u0lI8FSbvuBEFvgbMbYXUwduGeGmpok7QnJRrmCUPB1ANCsLpExWXuEjbKJ2Y9Ab0n9kSwN0zAVirkIaIXakjFmXKV3Tqlj4+CsiKWJ0zwtQlECGn7vzFIqJHR3KNQjxCwHSWMDqOp9hshWtfENFUVLDNH5QmBW8A4QqoKoODWERHzCECY4yfh1wzyHKDY8kYwInULk/hnl5k+6iUj1uEM5v0rrhB9Y0y1/kcKxIUl7zdq3AeHSgz+3PiDLMyXoHNyj5TgrMMClb3BDGSNoq8El0hZWT4TikZXG0OwmGeGp5Aj2ha44vKPnS0ghH2OKWPMhy0+LnXz3hzBGEc6cmXPUqHw7ctwrkBGesaNX8vTQ0U8dzulPHtZyuvL5S3raN3mSpe9BMncNQ3jebBqLLPJvUMp428j0Q0WfABlTS/i3473nO4rz8V7KBv1CAc4yqXt3hgk2eCUwc4IcSCyrH8JCUI5gkC3AtrbKA5dXLgD1GBrTRbftE2r3OwrzWgTMl3bRaLr+XYcOE/XVGgaVOjHIUgF6BA7wFDk9Fo+fWx+p34FDriVH9hnlybJqNBkEEGImB6SgQ2AMI2OdAYMDj16Zp7hhNM7QRNTlbZsROI6bP7o85b9dJ/pyETI/lAzDdZUeeLdDbnu29YNony0+/fnA1Tmvq7KWf0xySnWPrkKRXzaEbE6Q8voxxEp/lJVOe5W+R8rhvBUGnlMe6ejn2xgRQfdZxnsaCd6F1XF/U3IuKmv+xova6Pnlv9adG+iRzpfm0cPyuBvB1ivFSOmcE34/gZQVNfmNyxTmCXECfThIsbZIE2d8W6T6jf2DITXfcvZwwprGKYZaVX1D9YnBqYXskTrUpGCIY1l2Q7Y9gWrUiuj184jSUwZ+NjH5vRes4A1w0BrhonoWL87GLpNlpLjr6cNFSuLjOnlFC8jIC/uTMyNH04e8DDjmRGMXDixjDeYKfA9T88wODnz0TbtRB5+TfO72fcOpR5/+RXgFJc1Kg8EFmrTklAb8kZ9oK9OyLJpl6flWorCo+knfOCN5pck7gGJqfEwD1eL1Zht7zlSCaXCMm1AIpAUXV0TN+EWH3PzK6aPAFp0535r2DUenTZWXdUvfvfmCWqGTjw2PKQYyQ07aXhWl40cmTNXEvKgYDrk5xGFbRQ5kGE7jfMzrOH/S9P83mKb9t/mmnlsjm36Ks9X8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-24T19:19:55.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="vJx1rnz78qKrPSxegEvi" version="17.4.6" type="github">
+  <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
+    <mxGraphModel dx="2370" dy="1335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-17" value="LICENSE MANAGEMENT WITH LICENSE LOG MONITORING&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="1110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-26" value="License Purchasing" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="490" height="890" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;fontSize=17;" edge="1" parent="EOm_PajLkAZvnmIKBMYh-26" source="EOm_PajLkAZvnmIKBMYh-29" target="EOm_PajLkAZvnmIKBMYh-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;fontSize=17;" edge="1" parent="EOm_PajLkAZvnmIKBMYh-26" source="EOm_PajLkAZvnmIKBMYh-29" target="EOm_PajLkAZvnmIKBMYh-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Choosing Package" treeRoot="1" id="EOm_PajLkAZvnmIKBMYh-29">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="EOm_PajLkAZvnmIKBMYh-26" source="EOm_PajLkAZvnmIKBMYh-30" target="EOm_PajLkAZvnmIKBMYh-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-30" value="Free" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="EOm_PajLkAZvnmIKBMYh-26" source="EOm_PajLkAZvnmIKBMYh-31" target="EOm_PajLkAZvnmIKBMYh-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-31" value="Purchable Package" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry x="190" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-32" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;startArrow=none;endArrow=none;" edge="1" source="EOm_PajLkAZvnmIKBMYh-29" target="EOm_PajLkAZvnmIKBMYh-33" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Custom Package" treeRoot="1" id="EOm_PajLkAZvnmIKBMYh-33">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=17;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+            <mxGeometry x="339.99999999999955" y="140" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-37" value="Free Package" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=17;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry x="20" y="230" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-38" value="Create Up to 5 Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-37">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-39" value="Import Up to 5 script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=15;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-37">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-40" value="Limited Usage for proxy" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-37">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-60" value="One Device Login&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-37">
+          <mxGeometry y="104" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-42" value="Basic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;noLabel=0;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry x="190" y="230" width="140" height="156" as="geometry">
+            <mxRectangle x="190" y="230" width="50" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-43" value="Unlimited Script " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-42">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-44" value="Import/Export" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-42">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-45" value="Own Proxy access" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-42">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-59" value="Up to 2 device login" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-42">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-90" value="Customer Support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-42">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" target="EOm_PajLkAZvnmIKBMYh-67" source="EOm_PajLkAZvnmIKBMYh-42" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="449.9999999999998" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-67" value="Advance" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;noLabel=0;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry x="190" y="400" width="140" height="156" as="geometry">
+            <mxRectangle x="190" y="230" width="50" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-68" value="Unlimited Script " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-67">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-69" value="Import/Export" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-67">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-70" value="Own Proxy access" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-67">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-71" value="Up to 5 device login" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-67">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-91" value="Customer Support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-67">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" target="EOm_PajLkAZvnmIKBMYh-73" source="EOm_PajLkAZvnmIKBMYh-67" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469.9999999999998" y="490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-73" value="Max" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;noLabel=0;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry x="190" y="570" width="140" height="180" as="geometry">
+            <mxRectangle x="190" y="230" width="50" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-74" value="Unlimited Script " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-73">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-75" value="Import/Export" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-73">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-76" value="Own Proxy access" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-73">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-77" value="Up to 5*2 &#xa;device login" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-73">
+          <mxGeometry y="104" width="140" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-92" value="Customer Support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-73">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-82" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-26">
+          <mxGeometry x="340" y="230" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-83" value="Unlimited Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-82">
+          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-84" value="Import/Export Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-82">
+          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-85" value="Exchange Script" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-82">
+          <mxGeometry y="78" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-86" value="Customer Support" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-82">
+          <mxGeometry y="104" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-87" value="Own Proxy access" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-82">
+          <mxGeometry y="130" width="140" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-88" value="Custom Device &#xa;Configurations" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="EOm_PajLkAZvnmIKBMYh-82">
+          <mxGeometry y="156" width="140" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="EOm_PajLkAZvnmIKBMYh-26" source="EOm_PajLkAZvnmIKBMYh-33" target="EOm_PajLkAZvnmIKBMYh-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EOm_PajLkAZvnmIKBMYh-93" value="License Management System" style="swimlane;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="1130" height="1070" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
